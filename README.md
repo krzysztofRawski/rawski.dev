@@ -16,4 +16,4 @@ A wraz z nim headless CMS [Contentful](https://www.contentful.com/).
 
 ## Podgląd
 
-Wersja live dostępna [TUTAJ](https://krzysztofrawski.dev)
+Wersja live dostępna [TUTAJ](https://rawski.dev)
